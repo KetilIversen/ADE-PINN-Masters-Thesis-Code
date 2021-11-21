@@ -1,8 +1,8 @@
 close all
 clear all
 
-Nx = 64;
-Nt = 128;
+Nx = 256;
+Nt = 2000;
 Lx = 2;
 Lt = 1;
 D = 0.25/pi;
